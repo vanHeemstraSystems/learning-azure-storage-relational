@@ -38,32 +38,6 @@ website:
         - topics/foo-1.qmd
         - topics/foo-2.qmd
         - topics/foo-3.qmd        
-    - title: "Topics"
-      style: "docked"
-      background: light
-      contents:
-        - text: "---"
-        - section: Topics
-        - text: "---"
-        - topics.qmd
-        - text: "---"
-        - section: Hybrid Identity
-        - text: "---"
-        - topics/foo-1.qmd
-        - topics/foo-2.qmd
-        - topics/foo-3.qmd
-        - text: "---"        
-        - section: Identity Protection
-        - text: "---"
-        - topics/foo-1.qmd
-        - topics/foo-2.qmd
-        - topics/foo-3.qmd
-        - text: "---"       
-        - section: Privileged Identity Management
-        - text: "---"
-        - topics/foo-1.qmd
-        - topics/foo-2.qmd
-        - topics/foo-3.qmd        
 format:
   html:
     theme: cosmo
