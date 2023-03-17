@@ -21,11 +21,21 @@ website:
         - text: "---"
         - topics.qmd
         - text: "---"
-        - section: Foo
+        - section: Azure Active Directory Hybrid Identity
         - text: "---"
         - topics/foo-1.qmd
         - topics/foo-2.qmd
-        - topics/foo-3.qmd      
+        - topics/foo-3.qmd
+        - section: Azure Active Directory Identity Protection
+        - text: "---"
+        - topics/foo-1.qmd
+        - topics/foo-2.qmd
+        - topics/foo-3.qmd
+        - section: Azure Active Directory Privileged Identity Management
+        - text: "---"
+        - topics/foo-1.qmd
+        - topics/foo-2.qmd
+        - topics/foo-3.qmd        
     - title: "Topics"
       style: "docked"
       background: light
