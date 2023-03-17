@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/about.html</loc>
-    <lastmod>2023-03-17T15:46:39.280Z</lastmod>
+    <lastmod>2023-03-17T15:51:19.031Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/SUMMARY.html</loc>
-    <lastmod>2023-03-17T15:46:39.912Z</lastmod>
+    <lastmod>2023-03-17T15:51:19.987Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics.html</loc>
-    <lastmod>2023-03-17T15:46:40.196Z</lastmod>
+    <lastmod>2023-03-17T15:51:20.771Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics/foo-1.html</loc>
-    <lastmod>2023-03-17T15:46:40.472Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics/hybrid-identity.html</loc>
+    <lastmod>2023-03-17T15:51:21.039Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics/foo-2.html</loc>
-    <lastmod>2023-03-17T15:46:40.748Z</lastmod>
+    <lastmod>2023-03-17T15:51:21.311Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics/foo-3.html</loc>
-    <lastmod>2023-03-17T15:46:41.016Z</lastmod>
+    <lastmod>2023-03-17T15:51:21.579Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/index.html</loc>
-    <lastmod>2023-03-17T15:46:41.300Z</lastmod>
+    <lastmod>2023-03-17T15:51:21.847Z</lastmod>
   </url>
 </urlset>
