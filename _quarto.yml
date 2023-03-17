@@ -21,17 +21,17 @@ website:
         - text: "---"
         - topics.qmd
         - text: "---"
-        - section: Azure Active Directory Hybrid Identity
+        - section: Hybrid Identity
         - text: "---"
         - topics/foo-1.qmd
         - topics/foo-2.qmd
         - topics/foo-3.qmd
-        - section: Azure Active Directory Identity Protection
+        - section: Identity Protection
         - text: "---"
         - topics/foo-1.qmd
         - topics/foo-2.qmd
         - topics/foo-3.qmd
-        - section: Azure Active Directory Privileged Identity Management
+        - section: Privileged Identity Management
         - text: "---"
         - topics/foo-1.qmd
         - topics/foo-2.qmd
@@ -45,17 +45,17 @@ website:
         - text: "---"
         - topics.qmd
         - text: "---"
-        - section: Azure Active Directory Hybrid Identity
+        - section: Hybrid Identity
         - text: "---"
         - topics/foo-1.qmd
         - topics/foo-2.qmd
         - topics/foo-3.qmd
-        - section: Azure Active Directory Identity Protection
+        - section: Identity Protection
         - text: "---"
         - topics/foo-1.qmd
         - topics/foo-2.qmd
         - topics/foo-3.qmd
-        - section: Azure Active Directory Privileged Identity Management
+        - section: Privileged Identity Management
         - text: "---"
         - topics/foo-1.qmd
         - topics/foo-2.qmd
