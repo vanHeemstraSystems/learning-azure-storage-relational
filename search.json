@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Learning Home Automation",
-    "section": "",
-    "text": "Table of contents\n\nLearning Home Automation"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,9 +7,16 @@
     "text": "About this site"
   },
   {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Learning Azure Active Directory",
+    "section": "",
+    "text": "Table of contents\n\nLearning Azure Active Directory"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Learning Home Automation",
+    "title": "Learning Azure Active Directory",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nTopics\nSee Topics"
   }
