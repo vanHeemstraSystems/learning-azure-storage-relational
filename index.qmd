@@ -1,5 +1,5 @@
 ---
-title: "Learning Home Automation"
+title: "Learning Azure Active Directory"
 ---
 
 This is a Quarto website.
