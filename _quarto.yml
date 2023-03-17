@@ -17,6 +17,8 @@ website:
       background: light
       contents:
         - text: "---"
+        - topics.qmd        
+        - text: "---"
         - topics/hybrid-identity.qmd
         - text: "---"       
         - topics/identity-protection.qmd
