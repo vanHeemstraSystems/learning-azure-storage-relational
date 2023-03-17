@@ -17,15 +17,9 @@ website:
       background: light
       contents:
         - text: "---"
-        - section: Hybrid Identity
-        - text: "---"
         - topics/hybrid-identity.qmd
         - text: "---"       
-        - section: Identity Protection
-        - text: "---"
         - topics/identity-protection.qmd
-        - text: "---"        
-        - section: Privileged Identity Management
         - text: "---"
         - topics/privileged-identity-management.qmd        
 format:
