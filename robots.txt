@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-azure-storage-non-relational/sitemap.xml
+Sitemap: https://github.com/vanHeemstraSystems/learning-azure-storage-relational/sitemap.xml
