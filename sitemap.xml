@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/about.html</loc>
-    <lastmod>2023-08-30T12:31:51.324Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-non-relational/about.html</loc>
+    <lastmod>2023-08-30T12:37:38.561Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/hybrid-identity.html</loc>
-    <lastmod>2023-08-30T12:31:50.708Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-non-relational/topics/hybrid-identity.html</loc>
+    <lastmod>2023-08-30T12:37:38.041Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/SUMMARY.html</loc>
-    <lastmod>2023-08-30T12:31:50.060Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-non-relational/SUMMARY.html</loc>
+    <lastmod>2023-08-30T12:37:37.521Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/index.html</loc>
-    <lastmod>2023-08-30T12:31:48.440Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-non-relational/index.html</loc>
+    <lastmod>2023-08-30T12:37:36.137Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics.html</loc>
-    <lastmod>2023-08-30T12:31:49.696Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-non-relational/topics.html</loc>
+    <lastmod>2023-08-30T12:37:37.249Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/privileged-identity-management.html</loc>
-    <lastmod>2023-08-30T12:31:50.396Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-non-relational/topics/privileged-identity-management.html</loc>
+    <lastmod>2023-08-30T12:37:37.785Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/identity-protection.html</loc>
-    <lastmod>2023-08-30T12:31:51.032Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-non-relational/topics/identity-protection.html</loc>
+    <lastmod>2023-08-30T12:37:38.309Z</lastmod>
   </url>
 </urlset>
