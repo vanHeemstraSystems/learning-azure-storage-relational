@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Azure Active Directory](README.md)
+* [Learning Azure Governance](README.md)
