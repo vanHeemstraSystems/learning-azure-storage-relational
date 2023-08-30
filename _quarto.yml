@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning Azure Compute"
+  title: "Learning Azure Storage Non Relational"
   page-navigation: true
   navbar:
     left:
