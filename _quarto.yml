@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning Azure Active Directory"
+  title: "Learning Azure Governance"
   page-navigation: true
   navbar:
     left:
