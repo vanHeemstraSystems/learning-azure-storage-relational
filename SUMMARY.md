@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Azure Governance](README.md)
+* [Learning Azure Compute](README.md)
