@@ -1,5 +1,5 @@
 ---
-title: "Learning Azure Compute"
+title: "Learning Azure Storage Non Relational"
 ---
 
 This is a Quarto website.
