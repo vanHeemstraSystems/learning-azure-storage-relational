@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Azure Compute](README.md)
+* [Learning Azure Storage Non Relational](README.md)
