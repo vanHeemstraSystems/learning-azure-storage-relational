@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-azure-active-directory/sitemap.xml
+Sitemap: https://github.com/vanHeemstraSystems/learning-azure-governance/sitemap.xml
