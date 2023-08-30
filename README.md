@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-azure-governance/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-azure-governance/actions/workflows/publish.yml)
+
 learning-azure-governance
 # Learning Azure Governance
 
