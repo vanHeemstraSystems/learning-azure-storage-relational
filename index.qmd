@@ -1,5 +1,5 @@
 ---
-title: "Learning Azure Governance"
+title: "Learning Azure Compute"
 ---
 
 This is a Quarto website.
