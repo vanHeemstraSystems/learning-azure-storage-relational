@@ -7,32 +7,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "topics/authenticate-to-an-azure-sql-database.html",
-    "href": "topics/authenticate-to-an-azure-sql-database.html",
-    "title": "Authenticate to an Azure SQL Database",
+    "objectID": "topics/designing-for-structured-and-semi-structured-data.html",
+    "href": "topics/designing-for-structured-and-semi-structured-data.html",
+    "title": "Designing for Structured and Semi-Structured Data",
     "section": "",
-    "text": "Source: Relational Storage\n\nAuthenticate to an Azure SQL Database\n\n\n\nAuthenticate to an Azure SQL Database\n\n\n\nSQL database supports two types of authentication - SQL server authentication and Azure AD authentication.\nSQL server authentication credentials are stored in the dataabase.\nAzure AD authentication uses managed identities."
-  },
-  {
-    "objectID": "topics/protect-your-database.html",
-    "href": "topics/protect-your-database.html",
-    "title": "Protect Your Database",
-    "section": "",
-    "text": "Source: Relational Storage\n\nProtect Your Database\nUse a layered (defense in depth) approach to data protection.\n\n\n\n\n\n\n\n\n\nNetwork Security\nIdentity and Access\nData Protection\nSecurity Management\n\n\n\n\n- VNet- Firewall rules, NSG.- Private link.\n- Authentication options: Azure AD, SQL Auth, Windows Auth.- Azure RBAC.- Roles and permissions.- Row level security.\n- Encryption-in-use (Always encrypted)- Encryption-at-rest (TDE).- Encryption-in-flight (TLS).- Customer-managed keys.- Dynamic data masking.\n- Advanced threat protection.- SQL audit.- Audit integration with log analytics and event hubs.- Vulnerability assessment.- Data discovery and classification.- Microsoft Defender for Cloud."
-  },
-  {
-    "objectID": "topics/when-to-use-azure-sql-databases.html",
-    "href": "topics/when-to-use-azure-sql-databases.html",
-    "title": "When to use Azure SQL Databases",
-    "section": "",
-    "text": "Source: Relational Storage\n\nWhen to use Azure SQL Databases\n\n\n\nAzure SQL Databases"
-  },
-  {
-    "objectID": "topics/database-scaling-strategy.html",
-    "href": "topics/database-scaling-strategy.html",
-    "title": "Database Scaling Strategy",
-    "section": "",
-    "text": "Source: Relational Storage\n\nDatabase Scaling Strategy\nThe following table identifies scenarios that require different scaling solutions.\n\n\n\nDatabase Scaling Strategy\n\n\n\n\n\n\n\n\n\nRequirement\nSolution\n\n\n\n\nDo you have to manage and scale multiple Azure SQL databases that have varying and unpredictable resource requirements?\nSQL elastic pools\n\n\nAre you developing a new application with a single database that you want to test before launching it to thousands of users?\nAzure SQL Database or SQL Managed Instance\n\n\nDo you need to optimize the price performance for a group of databases within a prescribed budget while delivering performance elasticity for each database?\nSQL elastic pools\n\n\n\nConsider cost together with your scaling strategy to find an optimal solution."
+    "text": "Source: Relational Storage\n\nDesigning for Structured and Semi-Structured Data\n\n\n\nData Storage\n\n\nTo design Azure storage, you first must determine what type of data you have:\n\nStructured data includes relational data and has a shared schema.\nSemi-structured is less organized than structured data and isn’t stored in a relational format.\nUnstructured data is the least organized type of data."
   },
   {
     "objectID": "topics/select-an-azure-sql-database-pricing-model.html",
@@ -42,11 +21,32 @@
     "text": "Source: Relational Storage\n\nSelect an Azure SQL Database Pricing Model\n\n\n\nAzure SQL Database Pricing Model"
   },
   {
-    "objectID": "topics/designing-for-structured-and-semi-structured-data.html",
-    "href": "topics/designing-for-structured-and-semi-structured-data.html",
-    "title": "Designing for Structured and Semi-Structured Data",
+    "objectID": "topics/database-scaling-strategy.html",
+    "href": "topics/database-scaling-strategy.html",
+    "title": "Database Scaling Strategy",
     "section": "",
-    "text": "Source: Relational Storage\n\nDesigning for Structured and Semi-Structured Data\n\n\n\nData Storage\n\n\nTo design Azure storage, you first must determine what type of data you have:\n\nStructured data includes relational data and has a shared schema.\nSemi-structured is less organized than structured data and isn’t stored in a relational format.\nUnstructured data is the least organized type of data."
+    "text": "Source: Relational Storage\n\nDatabase Scaling Strategy\nThe following table identifies scenarios that require different scaling solutions.\n\n\n\nDatabase Scaling Strategy\n\n\n\n\n\n\n\n\n\nRequirement\nSolution\n\n\n\n\nDo you have to manage and scale multiple Azure SQL databases that have varying and unpredictable resource requirements?\nSQL elastic pools\n\n\nAre you developing a new application with a single database that you want to test before launching it to thousands of users?\nAzure SQL Database or SQL Managed Instance\n\n\nDo you need to optimize the price performance for a group of databases within a prescribed budget while delivering performance elasticity for each database?\nSQL elastic pools\n\n\n\nConsider cost together with your scaling strategy to find an optimal solution."
+  },
+  {
+    "objectID": "topics/when-to-use-azure-sql-databases.html",
+    "href": "topics/when-to-use-azure-sql-databases.html",
+    "title": "When to use Azure SQL Databases",
+    "section": "",
+    "text": "Source: Relational Storage\n\nWhen to use Azure SQL Databases\n\n\n\nAzure SQL Databases"
+  },
+  {
+    "objectID": "topics/protect-your-database.html",
+    "href": "topics/protect-your-database.html",
+    "title": "Protect Your Database",
+    "section": "",
+    "text": "Source: Relational Storage\n\nProtect Your Database\nUse a layered (defense in depth) approach to data protection.\n\n\n\n\n\n\n\n\n\nNetwork Security\nIdentity and Access\nData Protection\nSecurity Management\n\n\n\n\n- VNet- Firewall rules, NSG.- Private link.\n- Authentication options: Azure AD, SQL Auth, Windows Auth.- Azure RBAC.- Roles and permissions.- Row level security.\n- Encryption-in-use (Always encrypted)- Encryption-at-rest (TDE).- Encryption-in-flight (TLS).- Customer-managed keys.- Dynamic data masking.\n- Advanced threat protection.- SQL audit.- Audit integration with log analytics and event hubs.- Vulnerability assessment.- Data discovery and classification.- Microsoft Defender for Cloud."
+  },
+  {
+    "objectID": "topics/authenticate-to-an-azure-sql-database.html",
+    "href": "topics/authenticate-to-an-azure-sql-database.html",
+    "title": "Authenticate to an Azure SQL Database",
+    "section": "",
+    "text": "Source: Relational Storage\n\nAuthenticate to an Azure SQL Database\n\n\n\nAuthenticate to an Azure SQL Database\n\n\n\nSQL database supports two types of authentication - SQL server authentication and Azure AD authentication.\nSQL server authentication credentials are stored in the dataabase.\nAzure AD authentication uses managed identities."
   },
   {
     "objectID": "SUMMARY.html",
