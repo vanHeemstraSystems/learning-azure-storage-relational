@@ -1,1 +1,14 @@
+---
+title: "Authenticate to an Azure SQL Database"
+css: ../styles.css
+---
 
+Source: [Relational Storage](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html)
+
+# Authenticate to an Azure SQL Database
+
+![Authenticate to an Azure SQL Database](../images/authenticate-to-an-azure-sql-database.png){.center .image-large}
+
+- SQL database supports two types of authentication - SQL server authentication and Azure AD authentication.
+- SQL server authentication credentials are stored in the dataabase.
+- Azure AD authentication uses managed identities.
