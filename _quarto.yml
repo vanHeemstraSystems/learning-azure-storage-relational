@@ -28,6 +28,8 @@ website:
         - topics/select-an-azure-sql-database-pricing-model.qmd   
         - text: "---"
         - topics/protect-your-database.qmd
+        - text: "---"
+        - topics/authenticate-to-an-azure-sql-database.qmd
         
 format:
   html:
