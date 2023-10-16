@@ -35,6 +35,13 @@
     "text": "Source: Relational Storage\n\nWhen to use Azure Cosmos DB\nA fully managed NoSQL database service for modern app development. It has single-digit millisecond response times and guaranteed speed at any scale.\n\n\n\nAzure Cosmos DB\n\n\n\nWeb and mobile applications that store and query user generated content like tweets and blog posts.\nRetail and marketing industry that store catalog data and event sourcing in order processing pipelines.\nGaming that requires single milli-second latencies for reads and writes and can handle massive spikes in request rates during new game launches or feature updates.\nIoT use cases can load data into Azure Cosmos DB for adhoc querying. New data and changes to existing data can be read on change feed. Then all data or just changes to data in Azure Cosmos DB can be used as reference data as part of real-time analytics."
   },
   {
+    "objectID": "topics/azure-storage-tables-and-azure-cosmos-db-tables.html",
+    "href": "topics/azure-storage-tables-and-azure-cosmos-db-tables.html",
+    "title": "Azure Storage tables and Azure Cosmos DB tables",
+    "section": "",
+    "text": "Source: Relational Storage\n\nAzure Storage tables and Azure Cosmos DB tables\n\nAzure Table storage is a service that stores non-relational structured data (also known as structured NoSQL data) in the cloud, providing a key/attribute store with a schemeless design.\nAzure Cosmos DB provides the Table API for applications that are written for Azure Table storage and that need premium capabilities like high availability, scalability, and dedicated throughput.\n\n\n\nDifferences in behavior\n\nYou are charged for the capacity of an Azure Cosmos DB table as soon as it is created, even if that capacity isn’t used.\nQuery results from Azure Cosmos DB are not sorted in order of partition key and row key as they are from Storage tables.\nRow keys in Azure Cosmos DB are limited to 255 bytes.\nCross-Origin Resource Sharing (CORS) is supported by Azure Cosmos DB.\nTable names are case-sensitive in Azure Cosmos DB. They are not case-sensitive in Storage tables."
+  },
+  {
     "objectID": "topics/database-scaling-strategy.html",
     "href": "topics/database-scaling-strategy.html",
     "title": "Database Scaling Strategy",

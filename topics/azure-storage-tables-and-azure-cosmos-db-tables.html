@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Learning Azure Storage Relational – azure-storage-tables-and-azure-cosmos-db-tables</title>
+<title>Learning Azure Storage Relational - Azure Storage tables and Azure Cosmos DB tables</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Azure Storage tables and Azure Cosmos DB tables</li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -192,15 +192,55 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#azure-storage-tables-and-azure-cosmos-db-tables" id="toc-azure-storage-tables-and-azure-cosmos-db-tables" class="nav-link active" data-scroll-target="#azure-storage-tables-and-azure-cosmos-db-tables">Azure Storage tables and Azure Cosmos DB tables</a></li>
+  <li><a href="#differences-in-behavior" id="toc-differences-in-behavior" class="nav-link" data-scroll-target="#differences-in-behavior">Differences in behavior</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Azure Storage tables and Azure Cosmos DB tables</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>Source: <a href="https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html">Relational Storage</a></p>
+<section id="azure-storage-tables-and-azure-cosmos-db-tables" class="level1">
+<h1>Azure Storage tables and Azure Cosmos DB tables</h1>
+<ul>
+<li><strong>Azure Table storage</strong> is a service that stores non-relational structured data (also known as structured NoSQL data) in the cloud, providing a key/attribute store with a schemeless design.</li>
+<li><strong>Azure Cosmos DB</strong> provides the Table API for applications that are written for Azure Table storage and that need premium capabilities like high availability, scalability, and dedicated throughput.</li>
+</ul>
+</section>
+<section id="differences-in-behavior" class="level1">
+<h1>Differences in behavior</h1>
+<ul>
+<li>You are charged for the capacity of an Azure Cosmos DB table as soon as it is created, even if that capacity isn’t used.</li>
+<li>Query results from Azure Cosmos DB are not sorted in order of partition key and row key as they are from Storage tables.</li>
+<li>Row keys in Azure Cosmos DB are limited to 255 bytes.</li>
+<li>Cross-Origin Resource Sharing (CORS) is supported by Azure Cosmos DB.</li>
+<li>Table names are case-sensitive in Azure Cosmos DB. They are not case-sensitive in Storage tables.</li>
+</ul>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
