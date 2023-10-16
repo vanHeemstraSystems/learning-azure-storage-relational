@@ -42,6 +42,13 @@
     "text": "Source: Relational Storage\n\nDatabase Scaling Strategy\nThe following table identifies scenarios that require different scaling solutions.\n\n\n\nDatabase Scaling Strategy\n\n\n\n\n\n\n\n\n\nRequirement\nSolution\n\n\n\n\nDo you have to manage and scale multiple Azure SQL databases that have varying and unpredictable resource requirements?\nSQL elastic pools\n\n\nAre you developing a new application with a single database that you want to test before launching it to thousands of users?\nAzure SQL Database or SQL Managed Instance\n\n\nDo you need to optimize the price performance for a group of databases within a prescribed budget while delivering performance elasticity for each database?\nSQL elastic pools\n\n\n\nConsider cost together with your scaling strategy to find an optimal solution."
   },
   {
+    "objectID": "topics/when-to-use-azure-cosmos-db.html",
+    "href": "topics/when-to-use-azure-cosmos-db.html",
+    "title": "When to use Azure Cosmos DB",
+    "section": "",
+    "text": "Source: Relational Storage\n\nWhen to use Azure Cosmos DB\nA fully managed NoSQL database service for modern app development. It has single-digit millisecond response times and guaranteed speed at any scale.\n\n\n\nAzure Cosmos DB\n\n\n\nWeb and mobile applications that store and query user generated content like tweets and blog posts.\nRetail and marketing industry that store catalog data and event sourcing in order processing pipelines.\nGaming that requires single milli-second latencies for reads and writes and can handle massive spikes in request rates during new game launches or feature updates.\nIoT use cases can load data into Azure Cosmos DB for adhoc querying. New data and changes to existing data can be read on change feed. Then all data or just changes to data in Azure Cosmos DB can be used as reference data as part of real-time analytics."
+  },
+  {
     "objectID": "topics/protect-your-database.html",
     "href": "topics/protect-your-database.html",
     "title": "Protect Your Database",
