@@ -1,1 +1,13 @@
+---
+title: "Design a Relational Database Solution"
+css: ../styles.css
+---
 
+Source: [Relational Storage](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html)
+
+# Design a Relational Database Solution
+
+![Design a Realational Database Solution](../images/design-a-relational-database-solution.png){.center .image-large}
+
+- Your design should include authorization, authentication, pricing, performance, and high availability.
+- Diagram what you decide and explain your solution.
