@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Learning Azure Storage Relational - Hybrid Identity</title>
+<title>Learning Azure Storage Relational - Designing for Structured and Semi-Structured Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../topics/hybrid-identity.html">Hybrid Identity</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../topics/hybrid-identity.html">Designing for Structured and Semi-Structured Data</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -127,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../topics/hybrid-identity.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Hybrid Identity</span></a>
+ <span class="menu-text">Designing for Structured and Semi-Structured Data</span></a>
   </div>
 </li>
         <li class="px-0"><hr class="sidebar-divider hi "></li>
@@ -150,14 +150,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#designing-for-structured-and-semi-structured-data" id="toc-designing-for-structured-and-semi-structured-data" class="nav-link active" data-scroll-target="#designing-for-structured-and-semi-structured-data">Designing for Structured and Semi-Structured Data</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hybrid Identity</h1>
+<h1 class="title">Designing for Structured and Semi-Structured Data</h1>
 </div>
 
 
@@ -172,8 +178,24 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>Source: <a href="https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html">Relational Storage</a></p>
+<section id="designing-for-structured-and-semi-structured-data" class="level1">
+<h1>Designing for Structured and Semi-Structured Data</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/data-storage.png" class="center image-large img-fluid figure-img"></p>
+<figcaption class="figure-caption">Data Storage</figcaption>
+</figure>
+</div>
+<p>To design Azure storage, you first must determine what type of data you have:</p>
+<ul>
+<li><strong>Structured data</strong> includes relational data and has a shared schema.</li>
+<li><strong>Semi-structured</strong> is less organized than structured data and isn’t stored in a relational format.</li>
+<li><strong>Unstructured data</strong> is the least organized type of data.</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
