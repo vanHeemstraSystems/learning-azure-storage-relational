@@ -1,0 +1,19 @@
+---
+title: "Database Scaling Strategy"
+css: ../styles.css
+---
+
+Source: [Relational Storage](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html)
+
+# Database Scaling Strategy
+The following table identifies scenarios that require different scaling solutions.
+
+![Database Scaling Strategy](../images/database-scaling-strategy.png){.center .image-large}
+
+|Requirement|Solution|
+|---|---|
+|Do you have to manage and scale multiple Azure SQL databases that have varying and unpredictable resource requirements?|SQL elastic pools|
+|Are you developing a new application with a single database that you want to test before launching it to thousands of users?|Azure SQL Database or SQL Managed Instance|
+|Do you need to optimize the price performance for a group of databases within a prescribed budget while delivering performance elasticity for each database?|SQL elastic pools|
+
+Consider cost together with your scaling strategy to find an optimal solution.
