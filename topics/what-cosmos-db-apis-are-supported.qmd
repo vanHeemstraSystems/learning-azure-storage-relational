@@ -1,1 +1,10 @@
+---
+title: "What Cosmos DB APIs are supported?"
+css: ../styles.css
+---
 
+Source: [Relational Storage](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html)
+
+# What Cosmos DB APIs are supported?
+
+![Cosmos DB APIs](../images/cosmos-db-apis.png){.center .image-large}
