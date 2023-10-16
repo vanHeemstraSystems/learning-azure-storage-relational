@@ -38,6 +38,8 @@ website:
         - topics/what-cosmos-db-apis-are-supported.qmd
         - text: "---"
         - topics/azure-storage-tables-and-azure-cosmos-db-tables.qmd
+        - text: "---"
+        - topics/design-a-relational-database-solution.qmd        
 format:
   html:
     theme: cosmo
