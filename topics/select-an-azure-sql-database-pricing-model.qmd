@@ -1,1 +1,10 @@
+---
+title: "Select an Azure SQL Database Pricing Model"
+css: ../styles.css
+---
 
+Source: [Relational Storage](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html)
+
+# Select an Azure SQL Database Pricing Model
+
+![Azure SQL Database Pricing Model](../images/azure-sql-database-pricing-model.png){.center .image-large}
