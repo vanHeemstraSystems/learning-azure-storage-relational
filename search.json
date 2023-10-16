@@ -39,7 +39,7 @@
     "href": "topics/protect-your-database.html",
     "title": "Protect Your Database",
     "section": "",
-    "text": "Source: Relational Storage\n\nProtect Your Database\nUse a layered (defense in depth) approach to data protection.\n\n\n\n\n\n\n\n\n\nNetwork Security\nIdentity and Access\nData Protection\nSecurity Management\n\n\n\n\n- VNet- Firewall rules, NSG.- Private link.\n- Authentication options: Azure AD, SQL Auth, Windows Auth.- Azure RBAC.- Roles and permissions.- Row level security.\n- Encryption-in-use (Always encrypted)- Encryption-at-rest (TDE).- Encryption-in-flight (TLS).- Customer-managed keys.- Dynamic data masking.\n- Advanced threat protection.- SQL audit.- Audit integration with log analytics and event hubs.- Vulnerability assesment.- Data discovery and classification.- microsoft Defender for Cloud."
+    "text": "Source: Relational Storage\n\nProtect Your Database\nUse a layered (defense in depth) approach to data protection.\n\n\n\n\n\n\n\n\n\nNetwork Security\nIdentity and Access\nData Protection\nSecurity Management\n\n\n\n\n- VNet- Firewall rules, NSG.- Private link.\n- Authentication options: Azure AD, SQL Auth, Windows Auth.- Azure RBAC.- Roles and permissions.- Row level security.\n- Encryption-in-use (Always encrypted)- Encryption-at-rest (TDE).- Encryption-in-flight (TLS).- Customer-managed keys.- Dynamic data masking.\n- Advanced threat protection.- SQL audit.- Audit integration with log analytics and event hubs.- Vulnerability assessment.- Data discovery and classification.- Microsoft Defender for Cloud."
   },
   {
     "objectID": "SUMMARY.html",
