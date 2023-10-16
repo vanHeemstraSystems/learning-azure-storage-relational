@@ -24,6 +24,8 @@ website:
         - topics/when-to-use-azure-sql-databases.qmd
         - text: "---"
         - topics/database-scaling-strategy.qmd
+        - text: "---"
+        - topics/select-an-azure-sql-database-pricing-model.qmd   
       
 format:
   html:
