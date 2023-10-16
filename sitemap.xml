@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/about.html</loc>
-    <lastmod>2023-10-16T14:23:32.037Z</lastmod>
+    <lastmod>2023-10-16T14:24:56.407Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics.html</loc>
-    <lastmod>2023-10-16T14:23:31.401Z</lastmod>
+    <lastmod>2023-10-16T14:24:55.595Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/designing-for-structured-and-semi-structured-data.html</loc>
-    <lastmod>2023-10-16T14:23:30.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/select-an-azure-sql-database-pricing-model.html</loc>
-    <lastmod>2023-10-16T14:23:30.041Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/database-scaling-strategy.html</loc>
-    <lastmod>2023-10-16T14:23:27.829Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/when-to-use-azure-sql-databases.html</loc>
-    <lastmod>2023-10-16T14:23:29.681Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/authenticate-to-an-azure-sql-database.html</loc>
+    <lastmod>2023-10-16T14:24:54.831Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/protect-your-database.html</loc>
-    <lastmod>2023-10-16T14:23:30.425Z</lastmod>
+    <lastmod>2023-10-16T14:24:54.031Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/when-to-use-azure-sql-databases.html</loc>
+    <lastmod>2023-10-16T14:24:53.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/database-scaling-strategy.html</loc>
+    <lastmod>2023-10-16T14:24:52.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/select-an-azure-sql-database-pricing-model.html</loc>
+    <lastmod>2023-10-16T14:24:53.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/designing-for-structured-and-semi-structured-data.html</loc>
+    <lastmod>2023-10-16T14:24:54.435Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/SUMMARY.html</loc>
-    <lastmod>2023-10-16T14:23:31.089Z</lastmod>
+    <lastmod>2023-10-16T14:24:55.227Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/index.html</loc>
-    <lastmod>2023-10-16T14:23:31.725Z</lastmod>
+    <lastmod>2023-10-16T14:24:56.003Z</lastmod>
   </url>
 </urlset>
