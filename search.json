@@ -21,18 +21,18 @@
     "text": "Source: Relational Storage\n\nAuthenticate to an Azure SQL Database\n\n\n\nAuthenticate to an Azure SQL Database\n\n\n\nSQL database supports two types of authentication - SQL server authentication and Azure AD authentication.\nSQL server authentication credentials are stored in the dataabase.\nAzure AD authentication uses managed identities."
   },
   {
-    "objectID": "topics/protect-your-database.html",
-    "href": "topics/protect-your-database.html",
-    "title": "Protect Your Database",
+    "objectID": "topics/design-a-relational-database-solution.html",
+    "href": "topics/design-a-relational-database-solution.html",
+    "title": "Design a Relational Database Solution",
     "section": "",
-    "text": "Source: Relational Storage\n\nProtect Your Database\nUse a layered (defense in depth) approach to data protection.\n\n\n\n\n\n\n\n\n\nNetwork Security\nIdentity and Access\nData Protection\nSecurity Management\n\n\n\n\n- VNet- Firewall rules, NSG.- Private link.\n- Authentication options: Azure AD, SQL Auth, Windows Auth.- Azure RBAC.- Roles and permissions.- Row level security.\n- Encryption-in-use (Always encrypted)- Encryption-at-rest (TDE).- Encryption-in-flight (TLS).- Customer-managed keys.- Dynamic data masking.\n- Advanced threat protection.- SQL audit.- Audit integration with log analytics and event hubs.- Vulnerability assessment.- Data discovery and classification.- Microsoft Defender for Cloud."
+    "text": "Source: Relational Storage\n\nDesign a Relational Database Solution\n\n\n\nDesign a Relational Database Solution\n\n\n\nYour design should include authorization, authentication, pricing, performance, and high availability.\nDiagram what you decide and explain your solution."
   },
   {
-    "objectID": "topics/when-to-use-azure-cosmos-db.html",
-    "href": "topics/when-to-use-azure-cosmos-db.html",
-    "title": "When to use Azure Cosmos DB",
+    "objectID": "topics/select-an-azure-sql-database-pricing-model.html",
+    "href": "topics/select-an-azure-sql-database-pricing-model.html",
+    "title": "Select an Azure SQL Database Pricing Model",
     "section": "",
-    "text": "Source: Relational Storage\n\nWhen to use Azure Cosmos DB\nA fully managed NoSQL database service for modern app development. It has single-digit millisecond response times and guaranteed speed at any scale.\n\n\n\nAzure Cosmos DB\n\n\n\nWeb and mobile applications that store and query user generated content like tweets and blog posts.\nRetail and marketing industry that store catalog data and event sourcing in order processing pipelines.\nGaming that requires single milli-second latencies for reads and writes and can handle massive spikes in request rates during new game launches or feature updates.\nIoT use cases can load data into Azure Cosmos DB for adhoc querying. New data and changes to existing data can be read on change feed. Then all data or just changes to data in Azure Cosmos DB can be used as reference data as part of real-time analytics."
+    "text": "Source: Relational Storage\n\nSelect an Azure SQL Database Pricing Model\n\n\n\nAzure SQL Database Pricing Model"
   },
   {
     "objectID": "topics/when-to-use-azure-sql-databases.html",
@@ -56,18 +56,18 @@
     "text": "Source: Relational Storage\n\nAzure Storage tables and Azure Cosmos DB tables\n\nAzure Table storage is a service that stores non-relational structured data (also known as structured NoSQL data) in the cloud, providing a key/attribute store with a schemeless design.\nAzure Cosmos DB provides the Table API for applications that are written for Azure Table storage and that need premium capabilities like high availability, scalability, and dedicated throughput.\n\n\n\nDifferences in behavior\n\nYou are charged for the capacity of an Azure Cosmos DB table as soon as it is created, even if that capacity isn’t used.\nQuery results from Azure Cosmos DB are not sorted in order of partition key and row key as they are from Storage tables.\nRow keys in Azure Cosmos DB are limited to 255 bytes.\nCross-Origin Resource Sharing (CORS) is supported by Azure Cosmos DB.\nTable names are case-sensitive in Azure Cosmos DB. They are not case-sensitive in Storage tables."
   },
   {
-    "objectID": "topics/design-a relational-database-solution.html",
-    "href": "topics/design-a relational-database-solution.html",
-    "title": "Design a Relational Database Solution",
+    "objectID": "topics/when-to-use-azure-cosmos-db.html",
+    "href": "topics/when-to-use-azure-cosmos-db.html",
+    "title": "When to use Azure Cosmos DB",
     "section": "",
-    "text": "Source: Relational Storage\n\nDesign a Relational Database Solution\n\n\n\nDesign a Realational Database Solution\n\n\n\nYour design should include authorization, authentication, pricing, performance, and high availability.\nDiagram what you decide and explain your solution."
+    "text": "Source: Relational Storage\n\nWhen to use Azure Cosmos DB\nA fully managed NoSQL database service for modern app development. It has single-digit millisecond response times and guaranteed speed at any scale.\n\n\n\nAzure Cosmos DB\n\n\n\nWeb and mobile applications that store and query user generated content like tweets and blog posts.\nRetail and marketing industry that store catalog data and event sourcing in order processing pipelines.\nGaming that requires single milli-second latencies for reads and writes and can handle massive spikes in request rates during new game launches or feature updates.\nIoT use cases can load data into Azure Cosmos DB for adhoc querying. New data and changes to existing data can be read on change feed. Then all data or just changes to data in Azure Cosmos DB can be used as reference data as part of real-time analytics."
   },
   {
-    "objectID": "topics/select-an-azure-sql-database-pricing-model.html",
-    "href": "topics/select-an-azure-sql-database-pricing-model.html",
-    "title": "Select an Azure SQL Database Pricing Model",
+    "objectID": "topics/protect-your-database.html",
+    "href": "topics/protect-your-database.html",
+    "title": "Protect Your Database",
     "section": "",
-    "text": "Source: Relational Storage\n\nSelect an Azure SQL Database Pricing Model\n\n\n\nAzure SQL Database Pricing Model"
+    "text": "Source: Relational Storage\n\nProtect Your Database\nUse a layered (defense in depth) approach to data protection.\n\n\n\n\n\n\n\n\n\nNetwork Security\nIdentity and Access\nData Protection\nSecurity Management\n\n\n\n\n- VNet- Firewall rules, NSG.- Private link.\n- Authentication options: Azure AD, SQL Auth, Windows Auth.- Azure RBAC.- Roles and permissions.- Row level security.\n- Encryption-in-use (Always encrypted)- Encryption-at-rest (TDE).- Encryption-in-flight (TLS).- Customer-managed keys.- Dynamic data masking.\n- Advanced threat protection.- SQL audit.- Audit integration with log analytics and event hubs.- Vulnerability assessment.- Data discovery and classification.- Microsoft Defender for Cloud."
   },
   {
     "objectID": "topics/designing-for-structured-and-semi-structured-data.html",
