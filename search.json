@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "topics/when-to-use-azure-sql-edge.html",
+    "href": "topics/when-to-use-azure-sql-edge.html",
+    "title": "When to use Azure SQL Edge",
+    "section": "",
+    "text": "Source: Relational Storage\n\nWhen to use Azure SQL Edge\nAn optimized relational database engine geared for IoT and IoT Edge deployments. It is a containerized Linux application that runs on a process that is based on ARM64 or x64.\n\n\n\nWhen to use Azure SQL Edge\n\n\nUse SQL Edge when you need to: - Capture continuous data streams in real time. - Integrate the data in a comprehensive organizational data solution. - Synchronization and connectivity to back-end systems. - Overcome connectivity limitations. - Overcome slow or intermittent broadband connection."
+  },
+  {
     "objectID": "topics/designing-for-structured-and-semi-structured-data.html",
     "href": "topics/designing-for-structured-and-semi-structured-data.html",
     "title": "Designing for Structured and Semi-Structured Data",
