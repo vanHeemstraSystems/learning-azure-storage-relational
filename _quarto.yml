@@ -20,6 +20,8 @@ website:
         - topics.qmd        
         - text: "---"
         - topics/designing-for-structured-and-semi-structured-data.qmd
+        - text: "---"
+        - topics/when-to-use-azure-sql-databases.qmd
       
 format:
   html:
