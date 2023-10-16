@@ -7,8 +7,8 @@
     "text": "About this site"
   },
   {
-    "objectID": "topics/hybrid-identity.html",
-    "href": "topics/hybrid-identity.html",
+    "objectID": "topics/designing-for-structured-and-semi-structured-data.html",
+    "href": "topics/designing-for-structured-and-semi-structured-data.html",
     "title": "Designing for Structured and Semi-Structured Data",
     "section": "",
     "text": "Source: Relational Storage\n\nDesigning for Structured and Semi-Structured Data\n\n\n\nData Storage\n\n\nTo design Azure storage, you first must determine what type of data you have:\n\nStructured data includes relational data and has a shared schema.\nSemi-structured is less organized than structured data and isn’t stored in a relational format.\nUnstructured data is the least organized type of data."
