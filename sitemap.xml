@@ -2,54 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/about.html</loc>
-    <lastmod>2023-10-16T14:55:33.266Z</lastmod>
+    <lastmod>2023-10-16T14:56:20.501Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics.html</loc>
-    <lastmod>2023-10-16T14:55:32.430Z</lastmod>
+    <lastmod>2023-10-16T14:56:19.901Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/what-cosmos-db-apis-are-supported.html</loc>
-    <lastmod>2023-10-16T14:55:31.646Z</lastmod>
+    <lastmod>2023-10-16T14:56:19.345Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/authenticate-to-an-azure-sql-database.html</loc>
-    <lastmod>2023-10-16T14:55:30.818Z</lastmod>
+    <lastmod>2023-10-16T14:56:18.765Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/protect-your-database.html</loc>
-    <lastmod>2023-10-16T14:55:29.910Z</lastmod>
+    <lastmod>2023-10-16T14:56:18.177Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/when-to-use-azure-cosmos-db.html</loc>
-    <lastmod>2023-10-16T14:55:29.010Z</lastmod>
+    <lastmod>2023-10-16T14:56:17.569Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/azure-storage-tables-and-azure-cosmos-db-tables.html</loc>
+    <lastmod>2023-10-16T14:56:16.941Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/database-scaling-strategy.html</loc>
-    <lastmod>2023-10-16T14:55:27.582Z</lastmod>
+    <lastmod>2023-10-16T14:56:16.325Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/when-to-use-azure-sql-databases.html</loc>
-    <lastmod>2023-10-16T14:55:28.538Z</lastmod>
+    <lastmod>2023-10-16T14:56:17.245Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/select-an-azure-sql-database-pricing-model.html</loc>
-    <lastmod>2023-10-16T14:55:29.438Z</lastmod>
+    <lastmod>2023-10-16T14:56:17.861Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/designing-for-structured-and-semi-structured-data.html</loc>
-    <lastmod>2023-10-16T14:55:30.394Z</lastmod>
+    <lastmod>2023-10-16T14:56:18.481Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/topics/when-to-use-azure-sql-edge.html</loc>
-    <lastmod>2023-10-16T14:55:31.254Z</lastmod>
+    <lastmod>2023-10-16T14:56:19.065Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/SUMMARY.html</loc>
-    <lastmod>2023-10-16T14:55:32.038Z</lastmod>
+    <lastmod>2023-10-16T14:56:19.625Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-storage-relational/index.html</loc>
-    <lastmod>2023-10-16T14:55:32.826Z</lastmod>
+    <lastmod>2023-10-16T14:56:20.213Z</lastmod>
   </url>
 </urlset>
