@@ -14,18 +14,18 @@
     "text": "Source: Relational Storage\n\nDesigning for Structured and Semi-Structured Data\n\n\n\nData Storage\n\n\nTo design Azure storage, you first must determine what type of data you have:\n\nStructured data includes relational data and has a shared schema.\nSemi-structured is less organized than structured data and isn’t stored in a relational format.\nUnstructured data is the least organized type of data."
   },
   {
-    "objectID": "topics/database-scaling-strategy.html",
-    "href": "topics/database-scaling-strategy.html",
-    "title": "Database Scaling Strategy",
-    "section": "",
-    "text": "Source: Relational Storage\n\nDatabase Scaling Strategy\nThe following table identifies scenarios that require different scaling solutions.\n\n\n\nDatabase Scaling Strategy\n\n\n\n\n\n\n\n\n\nRequirement\nSolution\n\n\n\n\nDo you have to manage and scale multiple Azure SQL databases that have varying and unpredictable resource requirements?\nSQL elastic pools\n\n\nAre you developing a new application with a single database that you want to test before launching it to thousands of users?\nAzure SQL Database or SQL Managed Instance\n\n\nDo you need to optimize the price performance for a group of databases within a prescribed budget while delivering performance elasticity for each database?\nSQL elastic pools\n\n\n\nConsider cost together with your scaling strategy to find an optimal solution."
-  },
-  {
     "objectID": "topics/when-to-use-azure-sql-databases.html",
     "href": "topics/when-to-use-azure-sql-databases.html",
     "title": "When to use Azure SQL Databases",
     "section": "",
     "text": "Source: Relational Storage\n\nWhen to use Azure SQL Databases\n\n\n\nAzure SQL Databases"
+  },
+  {
+    "objectID": "topics/database-scaling-strategy.html",
+    "href": "topics/database-scaling-strategy.html",
+    "title": "Database Scaling Strategy",
+    "section": "",
+    "text": "Source: Relational Storage\n\nDatabase Scaling Strategy\nThe following table identifies scenarios that require different scaling solutions.\n\n\n\nDatabase Scaling Strategy\n\n\n\n\n\n\n\n\n\nRequirement\nSolution\n\n\n\n\nDo you have to manage and scale multiple Azure SQL databases that have varying and unpredictable resource requirements?\nSQL elastic pools\n\n\nAre you developing a new application with a single database that you want to test before launching it to thousands of users?\nAzure SQL Database or SQL Managed Instance\n\n\nDo you need to optimize the price performance for a group of databases within a prescribed budget while delivering performance elasticity for each database?\nSQL elastic pools\n\n\n\nConsider cost together with your scaling strategy to find an optimal solution."
   },
   {
     "objectID": "SUMMARY.html",
