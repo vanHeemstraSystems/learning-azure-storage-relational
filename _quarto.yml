@@ -35,7 +35,9 @@ website:
         - text: "---"
         - topics/when-to-use-azure-cosmos-db.qmd
         - text: "---"
-        - topics/what-cosmos-db-apis-are-supported.qmd        
+        - topics/what-cosmos-db-apis-are-supported.qmd
+        - text: "---"
+        - topics/azure-storage-tables-and-azure-cosmos-db-tables.qmd
 format:
   html:
     theme: cosmo
