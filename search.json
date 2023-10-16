@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "topics/authenticate-to-an-azure-sql-database.html",
+    "href": "topics/authenticate-to-an-azure-sql-database.html",
+    "title": "Authenticate to an Azure SQL Database",
+    "section": "",
+    "text": "Source: Relational Storage\n\nAuthenticate to an Azure SQL Database\n\n\n\nAuthenticate to an Azure SQL Database\n\n\n\nSQL database supports two types of authentication - SQL server authentication and Azure AD authentication.\nSQL server authentication credentials are stored in the dataabase.\nAzure AD authentication uses managed identities."
+  },
+  {
     "objectID": "topics/protect-your-database.html",
     "href": "topics/protect-your-database.html",
     "title": "Protect Your Database",
