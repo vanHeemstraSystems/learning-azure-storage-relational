@@ -32,7 +32,8 @@ website:
         - topics/authenticate-to-an-azure-sql-database.qmd
         - text: "---"
         - topics/when-to-use-azure-sql-edge.qmd
-        
+        - text: "---"
+        - topics/when-to-use-azure-cosmos-db.qmd        
 format:
   html:
     theme: cosmo
