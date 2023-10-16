@@ -1,1 +1,18 @@
+---
+title: "When to use Azure SQL Edge"
+css: ../styles.css
+---
 
+Source: [Relational Storage](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html)
+
+# When to use Azure SQL Edge
+An optimized relational database engine geared for IoT and IoT Edge deployments. It is a containerized Linux application that runs on a process that is based on ARM64 or x64.
+
+![When to use Azure SQL Edge](../images/when-to-use-azure-sql-edge.png){.center .image-large}
+
+Use SQL Edge when you need to:
+- Capture continuous data streams in real time.
+- Integrate the data in a comprehensive organizational data solution.
+- Synchronization and connectivity to back-end systems.
+- Overcome connectivity limitations.
+- Overcome slow or intermittent broadband connection.
