@@ -1,0 +1,10 @@
+---
+title: "When to use Azure SQL Databases"
+css: ../styles.css
+---
+
+Source: [Relational Storage](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html)
+
+# When to use Azure SQL Databases
+
+![Azure SQL Databases](../images/azure-sql-databases.png){.center .image-large}
