@@ -22,6 +22,8 @@ website:
         - topics/designing-for-structured-and-semi-structured-data.qmd
         - text: "---"
         - topics/when-to-use-azure-sql-databases.qmd
+        - text: "---"
+        - topics/database-scaling-strategy.qmd
       
 format:
   html:
