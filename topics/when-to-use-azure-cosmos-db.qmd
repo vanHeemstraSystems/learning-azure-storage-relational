@@ -1,1 +1,16 @@
+---
+title: "When to use Azure Cosmos DB"
+css: ../styles.css
+---
 
+Source: [Relational Storage](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html)
+
+# When to use Azure Cosmos DB
+A fully managed NoSQL database service for modern app development. It has single-digit millisecond response times and guaranteed speed at any scale.
+
+![Azure Cosmos DB](../images/when-to-use-azure-cosmos-db.png){.center .image-large}
+
+- Web and mobile applications that store and query user generated content like tweets and blog posts.
+- Retail and marketing industry that store catalog data and event sourcing in order processing pipelines.
+- Gaming that requires single milli-second latencies for reads and writes and can handle massive spikes in request rates during new game launches or feature updates.
+- IoT use cases can load data into Azure Cosmos DB for adhoc querying. New data and changes to existing data can be read on change feed. Then all data or just changes to data in Azure Cosmos DB can be used as reference data as part of real-time analytics.
