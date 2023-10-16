@@ -30,6 +30,8 @@ website:
         - topics/protect-your-database.qmd
         - text: "---"
         - topics/authenticate-to-an-azure-sql-database.qmd
+        - text: "---"
+        - topics/when-to-use-azure-sql-edge.qmd
         
 format:
   html:
