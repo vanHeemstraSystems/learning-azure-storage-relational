@@ -11,6 +11,7 @@ An optimized relational database engine geared for IoT and IoT Edge deployments.
 ![When to use Azure SQL Edge](../images/when-to-use-azure-sql-edge.png){.center .image-large}
 
 Use SQL Edge when you need to:
+
 - Capture continuous data streams in real time.
 - Integrate the data in a comprehensive organizational data solution.
 - Synchronization and connectivity to back-end systems.
