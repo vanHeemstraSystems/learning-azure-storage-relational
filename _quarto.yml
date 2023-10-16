@@ -33,7 +33,9 @@ website:
         - text: "---"
         - topics/when-to-use-azure-sql-edge.qmd
         - text: "---"
-        - topics/when-to-use-azure-cosmos-db.qmd        
+        - topics/when-to-use-azure-cosmos-db.qmd
+        - text: "---"
+        - topics/what-cosmos-db-apis-are-supported.qmd        
 format:
   html:
     theme: cosmo
